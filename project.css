@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background:black;
+    background-image:url("https://img.freepik.com/free-vector/dark-blue-memphis-blog-banner-template_53876-98946.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1703635200&semt=ais");
+    background-size:cover;
+    height:731.200px;
+    
+}
+
+
+p{
+    color:white;
+    display:inline;
+    font-size:20px;
+}
+
+#navbar{
+    background-color:#343A40;
+    height:55px;
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+    line-height:60px;
+}
+#project{
+    
+    width:100%;  
+}
+h1{
+    padding-top:22vh;
+    color:#A2D2FF;
+    text-align:center;
+}
+
+.websiteone{
+    background-color:#B7A196;
+    font-size:16px;
+    height:6vh;
+    line-height:6vh;
+    width:30vh;
+    box-shadow:10px 10px 20px rgba(255,255,255,0.25),10px 10px 10px rgba(255,255,255,0.22);
+}
+
+.websitetwo{
+    background-color:#B7A196;
+    font-size:16px;
+    height:6vh;
+    line-height:6vh;
+    width:30vh;
+    box-shadow:10px 10px 20px rgba(255,255,255,0.25),10px 10px 10px rgba(255,255,255,0.22);
+}
+.websiteone:hover{
+    background-color:#c1B8BD;
+    
+}
+
+.websitetwo:hover{
+    background-color: #c1B8BD;
+
+}
+
+button{
+    color:black;
+}
+button:hover{
+    color:grey;
+}
+#games{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+
+
+

@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url("https://th.bing.com/th/id/R.b27382a3bcbc80151beebd10c3d38933?rik=lgrR4F84aizoWQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fK7tq1CL.jpg&ehk=c8Lahyrs5f%2bFRWmBONtUz7Vf538d%2fu3nFK4m3%2fv7%2fg0%3d&risl=&pid=ImgRaw&r=0");
+    background-size:cover;
+    background-position:center;
+    opacity:0.75;
+    height:731.200px;
+}
+
+
+p{
+    color:white;
+    display:inline;
+    font-size:20px;
+}
+
+#navbar{
+    background-color:#343A40;
+    height:55px;
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+    line-height:60px;
+}
+
+#newbox{
+    width:100%;
+    display:flex;
+    justify-content:center;
+}
+
+#box{
+    width:850px;
+    margin:90px 5px;
+     padding:20px;
+     box-shadow:0 14px 20px rgba(6,214,160),0 10px 10px rgba(2,62,138);
+     
+ }
+
+ h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+    text-decoration:underline;
+ }
+
+ #intro{
+    font-size:28px;
+    font-family:cursive, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+ }
